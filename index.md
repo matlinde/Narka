@@ -2,9 +2,13 @@
 
 ![takie tam](https://matlinde.github.io/Rozstanie/linde_swamp.jpg)
 
-Chciałbym Ci podziękować za to, że mogłem z Tobą pracować. Razem przeżyliśmy wiele chwil, które zapamiętam na zawsze. Dziękuję za te 2.5 roku, serio. Nie jestem dobry w pisaniu podziękowań, także na tym poprzestanę :smiley:
+Chciałbym Ci podziękować za to, że mogłem z Tobą pracować. Razem przeżyliśmy wiele chwil, które zapamiętam na zawsze. Dziękuję za te 2.5 roku, serio. Nie jestem dobry w pisaniu podziękowań, także w tym miejscu poprzestanę :smiley:
 
-Jakby co, to możesz zastać mnie [tym linkiem](https://m.me/mateusz.illing).
+Tekst
+
+Jakby co, to możesz napisać do mnie [tym linkiem](https://m.me/mateusz.illing).
+
+[.](https://i.imgur.com/10zDpol.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
