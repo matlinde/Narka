@@ -1,4 +1,4 @@
-## Witajcie na mojej pożegnalnej stronie
+## Cześć
 
 ![Image](https://matlinde.github.io/Rozstanie/linde_swamp.jpg)
 
