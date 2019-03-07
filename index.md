@@ -1,8 +1,8 @@
-## Cześć
+## Narka
 
 ![takie tam](https://matlinde.github.io/Rozstanie/linde_swamp.jpg)
 
-Chciałbym Ci osobiście podziękować za to, że mogłem z Tobą pracować. Razem przeżyliśmy wiele chwil, które zapamiętam na zawsze. Dzięki za te 2.5 roku. Nie jestem dobry w pisaniu podziękowań, także na tym poprzestanę :smiley:
+Chciałbym Ci podziękować za to, że mogłem z Tobą pracować. Razem przeżyliśmy wiele chwil, które zapamiętam na zawsze. Dziękuję za te 2.5 roku, serio. Nie jestem dobry w pisaniu podziękowań, także na tym poprzestanę :smiley:
 
 Jakby co, to możesz zastać mnie [tym linkiem](https://m.me/mateusz.illing).
 
