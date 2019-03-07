@@ -1,4 +1,4 @@
-## Do zobaczenia
+
 
 ![takie tam](https://matlinde.github.io/Rozstanie/linde_swamp.jpg)
 
